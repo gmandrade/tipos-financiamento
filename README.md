@@ -38,3 +38,5 @@ A imagem `index.html` abaixo reflete a execução do script após usar os valore
 * numParcelas            = 360
 * valorFinanciado        = 150000
 * jurosSobreSaldoDevedor = 0.72
+
+Acessando imagem via GitHub: https://gmandrade.github.io/tipos-financiamento/
